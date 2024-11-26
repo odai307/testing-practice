@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Test coverage
+coverage/
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+
+# Logs
+*.log
+
+# npm package lock file (optional, but some prefer to exclude)
+package-lock.json
